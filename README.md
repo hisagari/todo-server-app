@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # ToDo Server App
 
 Node.js + Express + EJS + Prisma + PostgreSQL で作った、サーバーサイドレンダリングの ToDo アプリです。
@@ -162,3 +163,6 @@ Render PostgreSQL の External Database URL を使う場合、このアプリは
 - `.env` は `.gitignore` に入っているため、Git に含めません。
 - Prisma 7 に合わせて `@prisma/adapter-pg` と `pg` を使っています。
 - 画面は `views/index.ejs`、CSS は `public/styles.css` に分けています。
+=======
+# todo-server-app
+>>>>>>> c58c220debcb4f6f855abae18af399809cd62d3f
